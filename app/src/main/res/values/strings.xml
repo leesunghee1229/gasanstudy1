@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gasanstudy01</string>
+    <string name="intro">첫화면</string>
+    <string name="list_view">리스트뷰</string>
 </resources>
