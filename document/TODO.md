@@ -19,10 +19,13 @@ curl -X POST --header "Authorization: key=AAAA2gaPFxY:APA91bFjJRMu0PjWHyNTzJP0M4
 d9KW-STu5V8:APA91bFGrsk0EezEUzYvYnDbJcFi7zl9-fLaa63ygvhHrVBxxAFPvoDv6QaeFuxcQ9AaXqwhONrHsXFncgM-qdPOC3juLWMFFpGiQVpNRmZhB3RD0qOtQqmLrpBBC0X9SuAHQwKgTrPI
 ```
 
-### 후즈콜 같은거 ,  ,
+### 기타 등등
+ * 앱 스토어 등록
+ * 강제 업데이트 버전관리
+ *
 
 
-### 영업용 후즈콜
+### [목표] 영업용 후즈콜
  * 딜러가 후즈콜을 설치하면 전화가 올때 어떤 고객인지 서로 공유할 수 있다.
  * 딜러는 걸려온 전화에 대해서 간략하게 내용을 적어서 공유한다.
  * 앱을 실행하면 걸려온 전화에 대해서 공유된 내용을 확인 할 수 있다.
