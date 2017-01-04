@@ -17,6 +17,12 @@
         <activity android:name=".MainActivity">
 
         </activity>
+        <activity android:name=".DetaulActvity">
+            <intent-filter>
+                <action android:name="custom.view" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

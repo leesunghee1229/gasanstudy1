@@ -17,8 +17,7 @@ public class IntroActivity extends BaseActivity {
     @Override
     protected void onCreateOnBase(Bundle savedInstanceState) {
         setContentView(R.layout.activity_intro);
-
-        mHandler.postDelayed(runMain, 1000);
+        mHandler.postDelayed(runMain, 1500);
     }
 
     @Override
