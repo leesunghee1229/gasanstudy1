@@ -61,7 +61,7 @@ Android Advanced & Trend
 
 ### 8주차	Android의 Network와 Trend 기술에 대해서 배웁니다.
  * REST API
- * Retrofit, OK HTTP
+ * Retrofit, OK HTTP, Velloy
  * Glide
  * Butterknife
  * Firebase
@@ -73,10 +73,4 @@ Android Advanced & Trend
  * Rx Java
 
 
-
-## 2017.01.03
-
- * 11
- * 2
- * 33
 
